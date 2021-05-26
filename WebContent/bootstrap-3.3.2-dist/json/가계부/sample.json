@@ -1,0 +1,25 @@
+{
+    "EMAIL": "hanguk@naver.com",
+    "RECORD": {
+        "YEAR": 2021,
+        "MONTH": 5,
+        "INCOME": [{
+            "DATE": "날짜",
+            "AMOUNT": 10000,
+            "CONTENT": null,
+            "NOTE": null,
+            "REPEAT": true,
+            "REPEAT-CURRENT": 1,
+            "REPEAT-FINAL": 5
+        }],
+        "EXPENSE": [{
+            "DATE": "날짜",
+            "AMOUNT": 10000,
+            "CONTENT": null,
+            "NOTE": null,
+            "REPEAT": true,
+            "REPEAT-CURRENT": 1,
+            "REPEAT-FINAL": 5
+        }]
+    }
+}
